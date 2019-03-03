@@ -8,6 +8,7 @@ Il suffit de double-cliquer dessus.
 Pour fonctionner correctement, le script nécessite :
 
 -7-zip (7z.exe doit exister dans C:\Program Files\7-zip)
+
 -WInrar (rar.exe doit exister dans "C:\Program Files\WinRAR\)
 
 L'utilitaire "Image magick" : https://imagemagick.org/script/download.php
