@@ -6,3 +6,7 @@
 *.png
 /Smaller_Comics/
 /test/
+/dist/
+/build/
+/__pycache__/
+*.spec
