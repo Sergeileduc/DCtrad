@@ -1,4 +1,4 @@
-﻿@ECHO OFF
+@ECHO OFF
 REM Find and smallify CBZ files
 
 ECHO Création du dossier Smaller_comics
