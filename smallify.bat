@@ -54,5 +54,3 @@ REM Does the directory exist? has 7zip created it correctly?
 	RMDIR "%%~nF" /S /Q
 	)
 )
-	
-PAUSE
