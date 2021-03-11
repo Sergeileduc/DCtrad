@@ -1,5 +1,4 @@
-# dctrad
-Scripts for manipulate CBR CBZ files
+# Scripts for manipulate CBR CBZ files
 
 Le script convertira tous les CBZ et CBR dans le dossier courant.
 
